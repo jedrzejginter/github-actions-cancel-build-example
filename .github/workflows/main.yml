@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run some task
-        run: sleep 60s
+        run: sleep 120s
